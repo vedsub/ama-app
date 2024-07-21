@@ -1,7 +1,13 @@
 Anonymous Messaging App
+
+
 Welcome to the Anonymous Messaging App, an application designed to facilitate secure, anonymous communication between users. This project is built using Next.js, TypeScript, MongoDB, and integrates Google Generative AI APIs for generating messages.
 
 Features
+
+
+
+
 Anonymous Messaging: Users can send and receive messages without revealing their identity.
 Secure Authentication: Secure user sessions with JWT and NextAuth.
 Schema Validation: Ensures data integrity using Zod for schema validation.
@@ -10,6 +16,9 @@ Generative AI: Integration with Vercel SDK AI APIs to enhance messaging capabili
 
 
 Technologies Used
+
+
+
 Next.js: A React framework for building server-side rendering and static web applications.
 TypeScript: A statically typed superset of JavaScript.
 MongoDB: A NoSQL database for storing messages and user data.
@@ -24,6 +33,8 @@ Clone the repository:
 
 git clone https://github.com/your-username/ama-app.git
 cd ama-app
+
+
 Install dependencies:
 
 npm install
